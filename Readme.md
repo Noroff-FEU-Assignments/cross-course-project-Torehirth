@@ -1,3 +1,5 @@
-**Cross Course Project for Tore M. Hirth**
+**Cross Course Project by Tore M. Hirth**
 
-*This is the course assignment(CA) in Web and communication Technology*
+This is the course assignment(CA) in Web and communication Technology
+
+*Link to Netlify: https://cross-course-project-torehirth.netlify.app/*
