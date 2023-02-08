@@ -12,6 +12,15 @@
       security attacks? Note: the word count for your answer should not be
       greater than 250 words
     </p>
-    <p id="web-security-answer">[Answer here]</p>
+    <p id="web-security-answer">I would advise the client to only give access to people on a need-to-know basis. The users should have different and long passwords in case of a brute force attack, and not use usernames and passwords that’s self-explanatory (“birthday”, “addresses”, Admin, 1 2 3 4 5 6, etc.). 
+      An open-standard authorization protocol or framework (OAuth) is a great way to achieve a secure login.
+      The site should use HTTPS, which encrypts the communication session so that no unauthorized person can eavesdrop or change data during transmission over open networks. Google also ranks websites using HTTPS higher than HTTP in their search engine.	
+      Build separate database servers and file servers in case of a successful attack. In case of a successful attack, it’s also a good idea to have an off-site backup.
+      Use good measures when coding against the OWASP top 10, as these are the most common breaches/security threats.
+      This includes sanitizing of data, continuous deployment and- integration (CI/CD), automatic user timeout, etc.
+      It’s possible to make use of trustworthy third-party applications on some of these security measures. 
+      A good host and network security is of course essential.
+      Also, a good idea is to have an security.txt file with contact information and a Vulnerability Disclosure Policy (VDP). This way it’s easier for developers and bug bounty hunters to report vulnerabilities. 
+      </p>
   </body>
 </html>
