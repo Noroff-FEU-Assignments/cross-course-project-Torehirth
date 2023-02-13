@@ -3,4 +3,4 @@
 This is the course assignment(CA) in Web and communication Technology
 
 Link to my site (Netlify):<br>
-https://cross-course-project-torehirth.netlify.app/_
+https://cross-course-project-torehirth.netlify.app/
